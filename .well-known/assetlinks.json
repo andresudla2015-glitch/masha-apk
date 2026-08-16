@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.andresudla2015_glitch.twa",
+      "sha256_cert_fingerprints": [
+        "FC:08:81:D7:8D:3C:EE:EA:CE:6D:81:20:EE:B6:AA:D8:98:6E:8E:40:E9:08:6F:65:F8:A2:D4:6B:55:6C:63:21"
+      ]
+    }
+  }
+]
